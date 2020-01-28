@@ -1,0 +1,7 @@
+gatewayu:
+  forward:
+    timeout: 20000
+  server:
+    user: localhost:8081/user
+server:
+    user: localhost:8080
